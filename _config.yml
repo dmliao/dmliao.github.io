@@ -1,7 +1,4 @@
 safe:        false
-auto:        false
-server:      false
-server_port: 4000
 base-url:    /
 
 source:      .
@@ -69,4 +66,4 @@ sass:
     # If true, compiles sass directly into your jekyll source directory
     # As well as your destination directory
 
-exclude: config.rb
+exclude: ['config.rb']

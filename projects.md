@@ -8,6 +8,16 @@ Code projects & experiments I've worked on.
 
 ---
 
+### Lexica Reader
+
+[Web Application](http://lexicareader.com)
+
+A personalized English essay analyzer. Lexica Reader is trained with a database of high-quality essays, then uses metrics such as syllable rhythm and emotional context to analyze prose. 
+
+Written using NodeJS.
+
+---
+
 ### Sketch
 
 [Source](https://github.com/dmliao/Sketch) | [Demo](http://dmliao.github.io/Sketch/)
